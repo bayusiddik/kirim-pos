@@ -1,6 +1,6 @@
-# haloapp
+# Kirim Pos App
 
-A new Flutter project.
+Self Internship Project.
 
 ## Getting Started
 
